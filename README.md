@@ -1,3 +1,12 @@
+Made for the MegaETH Community
+
+This project was created to support and showcase the MegaETH ecosystem — the world’s first real-time Layer-2 blockchain built for web-scale performance.
+The MegaETH Analytics Bot automatically posts key on-chain metrics (such as TPS, block height, and gas fees) from the testnet directly to Twitter/X.
+
+By visualizing network activity in real time, this bot helps developers, researchers, and the community better understand how MegaETH operates at sub-second block speeds and ultra-low latency.
+It’s fully open-source and designed to evolve with the network — new metrics, alerts, and WebSocket integrations are planned for future versions.
+
+
 # MegaETH Analytics Bot
 
 Twitter bot publikujący metryki MegaETH (testnet): TPS (okno 10s), numer bloku, gas/base fee.
