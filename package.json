@@ -1,0 +1,21 @@
+{
+  "name": "megaeth-analytics-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "node-cron": "^3.0.3",
+    "undici": "^6.19.8"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
